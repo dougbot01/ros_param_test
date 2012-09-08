@@ -1,0 +1,7 @@
+<launch>
+  <param name="serial" value="5" />
+
+  <node name="param_test_2" pkg="ros_param_test" type="param_test_2"
+   output="screen" />
+
+</launch>

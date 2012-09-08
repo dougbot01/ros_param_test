@@ -1,0 +1,16 @@
+<package>
+  <description brief="ros_param_test">
+
+     ros_param_test
+
+  </description>
+  <author>Doug Sievers</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://github.com/dougbot01/ros_param_test</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+</package>
+
+

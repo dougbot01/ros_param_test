@@ -1,0 +1,9 @@
+<h2>ros_param_test</h2>
+
+<p>ROS package for experimenting with parameters in launch files</p>
+
+<h2>Summary</h2>
+
+<p>ROS has the ability to set parameters in a launch file that are in a global namespace, or in a local/node namespace. This allows the same parameter name to be used at different levels without collision.</p>
+
+
