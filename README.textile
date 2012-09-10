@@ -6,4 +6,18 @@
 
 <p>ROS has the ability to set parameters in a launch file that are in a global namespace, or in a local/node namespace. This allows the same parameter name to be used at different levels without collision.</p>
 
+<h2>Installing</h2>
 
+<p>It is assumed that you know how to work with ROS and install packages.</p>
+
+<p>In short:
+<ul>
+<li>Download the source tree to a folder named "ros_param_test" inside your ROS workspace directory</li>
+<li>Type "rosmake" at the command prompt</li>
+<li>Type "rospack profile" at the command prompt</li>
+</ul>
+</p>
+
+<h2>Usage</h2>
+
+<p>Check out my blog post explaining this package at <a href="http://dougsbots.blogspot.com/2012/09/ros-launch-files-and-parameters.html">http://dougsbots.blogspot.com/2012/09/ros-launch-files-and-parameters.html</a>.</p>
