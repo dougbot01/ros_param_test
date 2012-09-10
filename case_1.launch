@@ -1,7 +1,7 @@
 <launch>
   <param name="serial" value="5" />
 
-  <node name="param_test_1" pkg="ros_param_test" type="param_test_1"
+  <node name="param_test_global" pkg="ros_param_test" type="param_test_global"
    output="screen" />
 
 </launch>
